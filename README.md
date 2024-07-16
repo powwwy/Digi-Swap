@@ -6,3 +6,6 @@ Wait almost forgot.... ever been in a rush and never got your friends digits but
 Well that's tough hopefully someone will do something about it oh wait here we are. 
 These are the files for digi-swap (coming soon) download now and connect with your friends!!
 
+#Update 1: Custom colors for eyes
+Solution made by @Louw-Reegan to create a mask and use 2 different qr codes with their own colors 
+and place the eyes of the second qr to give the effect of different colors mask code is in mask.py more detailed explainations there.
