@@ -10,7 +10,7 @@ from qrcode.image.styles.colormasks import SolidFillColorMask
 from PIL import Image, ImageDraw
 
 # Step 1: Define the phone number with "tel:" prefix
-phone_number = "tel: +254 743 707612"
+phone_number = "tel: "
 
 # Step 2: Create a QRCode object with specified settings
 qr = qrcode.QRCode(
